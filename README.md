@@ -5,7 +5,7 @@ Ambitious frontend student with experience in creating responsive and user-frien
 
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [Raygal99@hotmail.com](mailto:Raygal99@hotmail.com)
-* 🧠  I'm learning Back End Development and APIs
+* 🧠  I'm learning frontEnd & BackEnd Development and APIs
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills

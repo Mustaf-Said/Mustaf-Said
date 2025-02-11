@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mustafa Said
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mustafa Said.
 ====================================================================================================================================
 
 Ambitious frontend student with experience in creating responsive and user-friendly web applications. I am passionate about modern design, user experience and building scalable solutions with HTML, CSS, SCSS, JavaScript, Typescript and React. Looking for an internship or junior role to further develop my skills.
